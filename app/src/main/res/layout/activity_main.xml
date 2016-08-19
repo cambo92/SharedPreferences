@@ -75,7 +75,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="This is where the info goes"
+        android:text="This is where the info goes. blah blah blah..."
         android:id="@+id/txtInfo"
         android:layout_below="@+id/btnDisplatInfo"
         android:layout_centerHorizontal="true"
